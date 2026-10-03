@@ -1,4 +1,4 @@
-# Construction-Project-Cost-Progress-Analysis
+# Construction Project Cost & Progress Analysis
 
 🏗️ Construction Progress Analysis | SQL & Python Project 📌 Project Overview
 
